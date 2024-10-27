@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Esquete sobre pontapé inicial exo: [Relembre o Chute Revolucionário de 2014: IA + Exoesqueleto na Copa!](https://www.youtube.com/watch?v=NjQaD5Gv6N0)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Desenvolvimento de esquete no youtube, suportando vídeos 100% confeccionados por IA.
 
 ## 🤖 Tecnologias Utilizadas
 Heygen, elevenLabs, midjourney
