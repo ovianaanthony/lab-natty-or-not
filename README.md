@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Esquete sobre pontapé inicial exo: [Relembre o Chute Revolucionário de 2014: IA + Exoesqueleto na Copa!](https://www.youtube.com/watch?v=NjQaD5Gv6N0)
 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Heygen, elevenLabs, midjourney
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para a confecção do projeto foi utilizado avatares virtuais para disseminação do conteúdo do vídeo, dispostos de maneira formal como âncoras de jornais comuns do dia a dia mas comunicando-se com jargões discontraídos gerando atração com o público. Além disso, tomei liberdade para clonar a minha voz e reproduzi-la em um dos avatares.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O conteúdo foi totalmente desenvolvido por IA, percebemos que a interação e o modo de se comunicar se aproxima cada vez mais aos meios reais de transmissão.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Caracterizada como uma experiência divertida a qual pode ser assimilada como um  poder de alcance incomensurável, ao imaginarmos quanto material pode ser elaborado ou a facilidade cada vez maior de produção através dessas ferramentas.  
 ```
+[Acesse o vídeo aqui](https://www.youtube.com/watch?v=NjQaD5Gv6N0)
 
 ### Exemplos e Insigths
 
